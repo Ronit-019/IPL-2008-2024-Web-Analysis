@@ -1,8 +1,4 @@
-Thanks! Based on the analyses you’ve included, here's your **updated README.md** with the GitHub and Streamlit deployment links added:
 
----
-
-````markdown
 # 🏏 IPL Web Analysis (2008–2024)
 
 Welcome to the **IPL Web Analysis** project – an interactive Streamlit web app that uncovers deep insights from **IPL matches (2008 to 2024)** using match and ball-by-ball data. Dive into comprehensive analytics across teams, players, performances, and rivalries.
