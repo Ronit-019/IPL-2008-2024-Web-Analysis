@@ -67,14 +67,14 @@ Welcome to the **IPL Web Analysis** project – an interactive Streamlit web app
    ```bash
    git clone https://github.com/Ronit-019/IPL-Web-Analysis.git
    cd IPL-Web-Analysis
-````
+
 
 2. ****Install dependencies:****
 
    ```bash
    pip install -r requirements.txt
    ```
-
+````
 3. **Run the app:**
 
    ```bash
