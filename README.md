@@ -47,7 +47,7 @@ Welcome to the **IPL Web Analysis** project – an interactive Streamlit web app
 - **Python**
 - **Streamlit** for UI
 - **Pandas** for data manipulation
-- Developed using **Jupyter Notebook** and **VSCode**
+- Developed using **Jupyter Notebook**
 
 ---
 
@@ -86,14 +86,6 @@ Welcome to the **IPL Web Analysis** project – an interactive Streamlit web app
 
 ---
 
-## 📌 Future Improvements
-
-* Add over-wise match analysis (currently not included)
-* Integrate win prediction and player-of-the-match forecast
-* Embed player images, icons, and video highlights
-* Improve UI/UX with charts and filters
-
----
 
 ## 📄 License
 
