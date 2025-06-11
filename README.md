@@ -69,7 +69,7 @@ Welcome to the **IPL Web Analysis** project – an interactive Streamlit web app
    cd IPL-Web-Analysis
 ````
 
-2. **Install dependencies:**
+2. ****Install dependencies:****
 
    ```bash
    pip install -r requirements.txt
